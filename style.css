@@ -1,14 +1,14 @@
 /* ===== Tokens ===== */
 :root {
-  --bg: #FAF6F0;
-  --ink: #26302B;
-  --ink-soft: #4A554E;
-  --teal: #2F4A45;
-  --teal-deep: #1E322E;
-  --sage: #7E9A87;
-  --gold: #C89B5C;
-  --card: #F2ECE1;
-  --line: #DCD3C3;
+  --bg: #FBF6FB;
+  --ink: #382A42;
+  --ink-soft: #6B5670;
+  --teal: #8452A0;
+  --teal-deep: #452A5C;
+  --sage: #C15B95;
+  --gold: #D6659F;
+  --card: #F6EAF5;
+  --line: #E8D6E9;
 
   --font-display: "Fraunces", Georgia, serif;
   --font-body: "Work Sans", -apple-system, BlinkMacSystemFont, sans-serif;
